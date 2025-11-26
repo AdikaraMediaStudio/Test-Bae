@@ -1,23 +1,34 @@
-<h1 align="center">Test Bae</h1>
-<p align="center"><b>Online URL Security Scanner</b></p>
+# Test Bae
 
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/YourGitHubUsername/test-bae?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername/test-bae/releases)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/YourGitHubUsername/test-bae/releases/latest/download/test-bae.apk)
+[![Support me on Saweria](https://img.shields.io/badge/Support-Saweria-orange?style=for-the-badge&logo=ko-fi)](https://saweria.co/YourSaweriaUsername)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-3.0-purple" />
-  <img src="https://img.shields.io/badge/Platform-Android-blue" />
-  <img src="https://img.shields.io/badge/Tracking-None-green" />
-  <img src="https://img.shields.io/badge/Type-Online%20Scanner-orange" />
-</p>
+**Test Bae** is a fast, online website inspection tool that allows you to analyze and inspect websites instantly. Everything is online and no data is stored.
 
----
+## Features
+- ⚡ Fast, real-time website inspection
+- 🔒 No data collection or storage
+- 🎯 Simple and intuitive interface
+- 🪶 Lightweight and easy to use
 
-## About
+## Installation
+Download the latest APK from the [Releases](https://github.com/YourGitHubUsername/test-bae/releases) page and install it on your Android device.
 
-Test Bae helps you verify the safety of a link before opening it.  
-It analyzes the URL structure, checks redirects, inspects SSL/TLS certificates, and detects phishing and spoofing patterns.
+## Usage
+1. Open the Test Bae app.
+2. Enter the website URL.
+3. Tap "Inspect" and see results instantly.
 
-Privacy-friendly by design — no data collection and nothing stored.
+## Contributing
+Contributions are welcome! Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+Licensed under [MIT License](LICENSE).
+
+## Support
+If you like this project, you can support me on [Saweria](https://saweria.co/YourSaweriaUsername).
 
 ---
 
