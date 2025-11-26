@@ -14,7 +14,7 @@
 - 🪶 Lightweight and easy to use
 
 ## Installation
-Download the latest APK from the [Releases](https://github.com/YourGitHubUsername/test-bae/releases) page and install it on your Android device.
+Download the latest APK from the [Releases](https://github.com/AdikaraMediaStudio/test-bae/releases) page and install it on your Android device.
 
 ## Usage
 1. Open the Test Bae app.
