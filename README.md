@@ -1,7 +1,7 @@
 # Test Bae
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/YourGitHubUsername/test-bae?style=for-the-badge&logo=github)](https://github.com/AdikaraMediaStudio/test-bae/releases)
+[![Release](https://img.shields.io/github/v/release/AdikaraMediaStudio/test-bae?style=for-the-badge&logo=github)](https://github.com/AdikaraMediaStudio/test-bae/releases)
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/AdikaraMediaStudio/test-bae/releases/latest/download/test-bae.apk)
 [![Support me on Saweria](https://img.shields.io/badge/Support-Saweria-orange?style=for-the-badge&logo=ko-fi)](https://saweria.co/AdikaraMediaStudio)
 
